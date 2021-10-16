@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(255, 0, 0);
   textSize(40)
-  text("hello", 50, 50)
+  text("I have changed", 50, 50)
 }
